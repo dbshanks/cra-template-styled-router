@@ -13,6 +13,10 @@
   "email": "dbshanks75@hotmail.com",
   "main": "template.json",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbshanks/cra-template-styled-router"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
