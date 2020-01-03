@@ -13,5 +13,5 @@ react-router-dom
 To install:
 
 ```
-npx create-react-app 'my-new-app' --template router-styled
+npx create-react-app 'my-new-app' --template styled-router
 ```
