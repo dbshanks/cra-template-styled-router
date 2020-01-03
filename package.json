@@ -1,14 +1,29 @@
 {
   "name": "cra-template-styled-router",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "styled-component",
+    "css-in-js"
+  ],
+  "description": "A template alternative for create-react-app featuring styled-components, node-sass, react-router-dom",
+  "author": "Derek Shanks",
+  "email": "dbshanks75@hotmail.com",
+  "main": "template.json",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
+    "node-sass": "^4.13.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "styled-components": "^4.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
